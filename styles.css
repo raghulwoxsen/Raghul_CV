@@ -1,0 +1,107 @@
+  body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #05203c;
+  color: #fff;
+  text-align: left;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.profile-image {
+  background-color: #fff; /* Set the background color to white */
+  padding: 5px; /* Add padding for better visual appearance */
+  border-radius: 50%;
+}
+
+.profile-image img {
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
+}
+
+.header-content {
+  flex-grow: 1;
+  margin-left: 30px;
+  
+}
+.name {
+  color:aliceblue;
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2,
+h3 {
+  color: #0d6097;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.job,
+.degree {
+  margin-bottom: 30px;
+}
+
+.job h3,
+.degree h3 {
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+.synopsis {
+  font-family:'Courier New', Courier, monospace
+}
+#footer{
+  color: aliceblue;
+  font-size: 15px;
+}
+#footer1{
+  color: aliceblue;
+  font-size: 15px;
+}
+#footer2{
+  color: aliceblue;
+  font-size: 15px;
+}
+#footer3{
+  color: aliceblue;
+  font-size: 15px;
+}
+footer{
+  background-color: black;
+}
+/*footer heading */
+.top{
+  font-size: 30px;
+  font-weight: 20px;
+}
+/* content heading */
+.name1{
+  color: blue;
+  font-size: 30px;
+  font-weight: 20px;
+    
+}
